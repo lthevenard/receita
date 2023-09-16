@@ -1,0 +1,115 @@
+imposto,Expressão regular,Documentos com ao menos 1 ocorrência,Casos encontrados,Número total de ocorrências
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto de importação,1226
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos incidentes na importação,27
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto sobre a importação,17
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto na importação,11
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos de importação,9
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto de importacão,8
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos e taxas de importação,8
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto importação,7
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto sobre importação,7
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos incidentes sobre a importação,7
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos devidos na importação,7
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos suspensos incidentes na importação,5
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,"impostos incidentes, na importação",4
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto de período de importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos exigíveis em importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos na importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos federais incidentes na importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos pela importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto devido na importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos devida na importação,2
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto mde importação,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto do importação,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto incidente sobre a importação,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto do imposto de importação,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos sobre a importação,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,impostos incidentes na importacão,1
+ii,"impostos?(\s+\S+){0,3}\s+importa[cç]([aã]o|[õo]es)",672,imposto de importação na importação,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,irpf,644
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda da pessoa física,452
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda pessoa física,198
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda da pessoa física,139
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda de pessoa física,119
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda das pessoas físicas,107
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda das pessoas físicas,53
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda - pessoa física,22
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,impostos sobre a renda de pessoa física,21
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda de pessoa física,6
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda sobre a pessoa física,6
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda de pessoas físicas,4
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda todas as pessoas físicas,3
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda devido pelas pessoas físicas,3
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda pessoa física,3
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda incidente sobre as pessoas físicas,3
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda pelas pessoas físicas,2
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda a pessoa física,2
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda devido pela pessoa física,2
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda por pessoa física,2
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda pessoa física. pessoa física,2
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda progressivo das pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda - pessoa física,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda às pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,"imposto de renda de 1997, das pessoas físicas",1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda - pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda efetuado por pessoa física,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a vitória-es renda de pessoa física,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda as pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto sobre a renda as pessoas físicas,1
+irpf,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+f[íi]sicas?|\birpf\b",602,imposto de renda pessoas física,1
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,irpj,1238
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda da pessoa jurídica,149
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda pessoa jurídica,123
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda das pessoas jurídicas,86
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda da pessoa jurídica,77
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda das pessoas jurídicas,58
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda de pessoa jurídica,41
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda de pessoa jurídica,26
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda na fonte - pessoa jurídica,17
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda - pessoa jurídica,11
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda de pessoas jurídicas,5
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda devido pela pessoa jurídica,4
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda na fonte das pessoas jurídicas,4
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda devido pela pessoa jurídica,4
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto incidente sobre a renda de pessoa jurídica,2
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda pago pelas pessoas jurídicas,2
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda sobre pessoa jurídica,1
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda devido pelas pessoas jurídicas,1
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto de renda incidente sobre pessoa jurídica,1
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda pelas pessoas jurídicas,1
+irpj,"impostos?(\s+\S+){0,3}\s+renda(\s+\S+){0,3}\s+pessoas?\s+jur[íi]dicas?|\birpj\b",431,imposto sobre a renda pessoa jurídica,1
+iof,"impostos?(\s+\S+){0,3}\s+opera[cç]([aã]o|[õo]es)(\s+\S+){0,3}\s+cr[ée]dito|\biof\b",268,iof,820
+iof,"impostos?(\s+\S+){0,3}\s+opera[cç]([aã]o|[õo]es)(\s+\S+){0,3}\s+cr[ée]dito|\biof\b",268,imposto sobre operações de crédito,273
+iof,"impostos?(\s+\S+){0,3}\s+opera[cç]([aã]o|[õo]es)(\s+\S+){0,3}\s+cr[ée]dito|\biof\b",268,imposto incidente nas operações de crédito,1
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,ipi,3481
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,imposto sobre produtos industrializados,1349
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,impostos sobre produtos industrializados,5
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,imposto sobre produto industrializado,2
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,imposto sobre produtos industrializado,2
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,imposto sobre produto industrializados,1
+ipi,"impostos?(\s+\S+){0,3}\s+produtos?(\s+\S+){0,3}\s+industrializados?|\bipi\b",860,imposto de produtos industrializados,1
+cofins,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+financiamentos?(\s+\S+){0,3}\s+seguridades?(\s+\S+){0,3}\s+socia(l|is)|\bcofins\b",528,cofins,3129
+cofins,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+financiamentos?(\s+\S+){0,3}\s+seguridades?(\s+\S+){0,3}\s+socia(l|is)|\bcofins\b",528,contribuição social para o financiamento da seguridade social,31
+cofins,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+financiamentos?(\s+\S+){0,3}\s+seguridades?(\s+\S+){0,3}\s+socia(l|is)|\bcofins\b",528,contribuição social para financiamento da seguridade social,12
+cofins,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+financiamentos?(\s+\S+){0,3}\s+seguridades?(\s+\S+){0,3}\s+socia(l|is)|\bcofins\b",528,contribuições sociais destinadas ao financiamento da seguridade social,7
+pis,"programas?(\s+\S+){0,3}\s+integra[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)|\bpis\b",570,pis,3210
+pis,"programas?(\s+\S+){0,3}\s+integra[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)|\bpis\b",570,programas de integração social,68
+pis,"programas?(\s+\S+){0,3}\s+integra[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)|\bpis\b",570,programa de integração social,44
+pis,"programas?(\s+\S+){0,3}\s+integra[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)|\bpis\b",570,programas e integração social,1
+pasep,"programas?(\s+\S+){0,3}\s+forma[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+patrim[ôo]nios?(\s+\S+){0,3}\s+servidor(es)?(\s+\S+){0,3}\s+p[úu]blicos?|\bpasep\b",540,pasep,3017
+pasep,"programas?(\s+\S+){0,3}\s+forma[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+patrim[ôo]nios?(\s+\S+){0,3}\s+servidor(es)?(\s+\S+){0,3}\s+p[úu]blicos?|\bpasep\b",540,programa de formação do patrimônio do servidor público,30
+csll,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+lucros?(\s+\S+){0,3}\s+l[íi]quidos?|\bcsll\b",362,csll,2023
+csll,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+lucros?(\s+\S+){0,3}\s+l[íi]quidos?|\bcsll\b",362,contribuição social sobre o lucro líquido,482
+csll,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+lucros?(\s+\S+){0,3}\s+l[íi]quidos?|\bcsll\b",362,contribuição social s/ lucro líquido,2
+csll,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}\s+socia(l|is)(\s+\S+){0,3}\s+lucros?(\s+\S+){0,3}\s+l[íi]quidos?|\bcsll\b",362,contribuicao social sobre o lucro liquido,1
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,inss,783
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuições previdenciárias,627
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuição previdenciária,380
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuições sociais previdenciárias,185
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuição social previdenciária,86
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuição patronal previdenciária,17
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuições previdenciarias,3
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuições federais e previdenciárias,2
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuição previdenciárias,1
+inss,"contribui[çc]([ãa]o|[õo]es)(\s+\S+){0,3}(?<!excetuadas\sas)\s+previd[êe]nci[áa]rias?|\binss\b",519,contribuições previdenciárias. prevpj03 – previdenciária,1
